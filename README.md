@@ -1,5 +1,5 @@
 # Hi there! 👋
-![ffe7072d1069ec7e7f643d3e8268d739](https://github.com/gva-cse/gva-cse/assets/114987374/0b76835a-137f-48c8-ae7c-52817807618d)
+
 
 
 Welcome to my GitHub profile! I'm Vanshika Gupta, a passionate B.Tech student from Ghaziabad, currently pursuing my degree at ABESIT (Batch 2021-2025). I love exploring the world of technology and coding.
