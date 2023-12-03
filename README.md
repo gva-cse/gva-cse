@@ -25,24 +25,24 @@ Here are some of the projects I've worked on:
 
 I have experience and knowledge in the following technologies:
 
-- Python![download](https://github.com/gva-cse/gva-cse/assets/114987374/e68c1dd6-0e96-4d37-8a93-6aca2a1afbdd)
+- Python
 
-- Java![download](https://github.com/gva-cse/gva-cse/assets/114987374/842b50b5-0212-40c9-8439-abb88b14596f)
+- Java
 
-- C![926px-C_Programming_Language svg](https://github.com/gva-cse/gva-cse/assets/114987374/4020bcb9-eba8-4b89-b79f-4142ba1bf220)
+- C
 
-- Frontend Development (HTML, CSS, JavaScript)![download](https://github.com/gva-cse/gva-cse/assets/114987374/498ee3bd-c664-4b03-aea3-e238f9e14461)
+- Frontend Development (HTML, CSS, JavaScript)
 
 
 ## Let's Connect
 
 I'm always open to interesting discussions and collaborations. Feel free to reach out to me via email or connect with me on social media:
 
-- Email: [gvanshika170@gmail.com](mailto:gvanshika170@gmail.com)![download](https://github.com/gva-cse/gva-cse/assets/114987374/39341c38-ec6a-4ae5-ad78-c09ee2d29e6e)
+- Email: [gvanshika170@gmail.com](mailto:gvanshika170@gmail.com)
 
-- Twitter: [@VanshikaGu87103](https://twitter.com/VanshikaGu87103)![download](https://github.com/gva-cse/gva-cse/assets/114987374/5aeadb64-6d7f-4591-a794-517fa4fb4607)
+- Twitter: [@VanshikaGu87103](https://twitter.com/VanshikaGu87103)
 
-- LinkedIn: [Vanshika Gupta](https://www.linkedin.com/in/vanshika-gupta23052003/)![download](https://github.com/gva-cse/gva-cse/assets/114987374/8cdbc31c-422a-4100-84f1-b353b32535fe)
+- LinkedIn: [Vanshika Gupta](https://www.linkedin.com/in/vanshika-gupta23052003/)
 
 
 Looking forward to connecting with you!
